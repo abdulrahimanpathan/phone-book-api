@@ -16,9 +16,9 @@ Run following command to run the application in your local
 
 Once the application is setup in your local we can browse folowing endpoints to store, retrive, update and delete contacts from phone book.
 
-POST: http://127.0.0.1:8000/api/contact
-GET: http://127.0.0.1:8000/api/contact/{name}
-PUT: http://127.0.0.1:8000/api/contact/{id}
+POST: http://127.0.0.1:8000/api/contact <br>
+GET: http://127.0.0.1:8000/api/contact/{name} <br>
+PUT: http://127.0.0.1:8000/api/contact/{id} <br>
 DELETE: http://127.0.0.1:8000/api/contact/{id}
 
 ## Swagger documentation URL for the API
